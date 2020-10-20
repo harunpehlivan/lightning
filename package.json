@@ -57,7 +57,7 @@
     "async": "^0.9.0",
     "basic-auth-connect": "^1.0.0",
     "body-parser": "^1.4.3",
-    "browserify": "^11.0.1",
+    "browserify": "^12.0.0",
     "child-process-promise": "^1.1.0",
     "colors": "~0.6.2",
     "command-exists": "^1.0.1",
